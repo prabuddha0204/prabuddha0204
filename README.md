@@ -49,7 +49,7 @@
 - ✅ Build full-stack web apps
 - ✅ Contribute to open source
 - ✅ Practice DSA regularly
-- ✅ Make projects
+- ✅ Gain experience
 
 ---
 
