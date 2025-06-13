@@ -53,17 +53,5 @@
 
 ---
 
-## 💻 Projects
-
-### 🔹 [Weather App](https://weatherapp-coral-mu.vercel.app/)
-A simple weather app using OpenWeather API & Fetch API  
-[🔗 GitHub Repo](https://github.com/prabuddha0204/weatherApp)
-
-### 🔹 [Simon Says Game](https://simonsays-pi.vercel.app/)
-Fun memory game using DOM manipulation & basic JS logic  
-[🔗 GitHub Repo](https://github.com/prabuddha0204/simon-says)
-
----
-
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabuddha-saxena/)
