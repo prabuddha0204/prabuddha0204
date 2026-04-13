@@ -29,6 +29,17 @@ Currently exploring the intersection of full-stack development and applied ML.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+---
+
+## Focus Areas
+
+- 🔹 Full Stack Web Development (MERN)
+- 🔹 AI + LLM Applications (RAG, Groq, APIs)
+- 🔹 Computer Vision (YOLO, OpenCV)
+- 🔹 Real-time Systems & Interactive UI
+
+---
+
 ### AI & Computer Vision
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -70,11 +81,30 @@ Currently exploring the intersection of full-stack development and applied ML.
 
 ---
 
+## Currently Building
+
+- 🚀 Scaling AI Scam Detection Platform (FactGuard)
+- 🧠 Exploring LLM + Browser Extensions
+- 🎯 Preparing for Software Engineering Internships
+
+---
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabuddha0204&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha0204&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=prabuddha0204&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha0204&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha0204&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabuddha0204&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabuddha0204&theme=tokyo-night)
 
 ---
 
