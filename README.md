@@ -1,6 +1,6 @@
 <div align="center">
 
-# Prabuddha Saxena
+# PRABUDDHA SAXENA
 **Full Stack Developer · ECE @ JIIT '28 · Noida, India**
 
 I build things for the web — from AI-powered platforms to computer vision systems.
