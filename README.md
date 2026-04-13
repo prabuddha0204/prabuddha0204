@@ -29,17 +29,6 @@ Currently exploring the intersection of full-stack development and applied ML.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
-
-## Focus Areas
-
-- 🔹 Full Stack Web Development (MERN)
-- 🔹 AI + LLM Applications (RAG, Groq, APIs)
-- 🔹 Computer Vision (YOLO, OpenCV)
-- 🔹 Real-time Systems & Interactive UI
-
----
-
 ### AI & Computer Vision
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -81,14 +70,6 @@ Currently exploring the intersection of full-stack development and applied ML.
 
 ---
 
-## Currently Building
-
-- 🚀 Scaling AI Scam Detection Platform (FactGuard)
-- 🧠 Exploring LLM + Browser Extensions
-- 🎯 Preparing for Software Engineering Internships
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -99,12 +80,6 @@ Currently exploring the intersection of full-stack development and applied ML.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prabuddha0204&theme=tokyonight" />
 </p>
-
----
-
-## Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabuddha0204&theme=tokyo-night)
 
 ---
 
