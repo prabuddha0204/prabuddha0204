@@ -1,0 +1,272 @@
+<svg width="800" height="1420" viewBox="0 0 800 1420" xmlns="http://www.w3.org/2000/svg">
+  <title>Prabuddha Saxena — GitHub Profile</title>
+  <defs>
+    <style>
+      * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; stroke: #30363d; stroke-width: 0.5; }
+      .card-teal { fill: #0d2b22; stroke: #1D9E75; stroke-width: 0.5; }
+      .name { font-size: 32px; font-weight: 600; fill: #e6edf3; letter-spacing: -1px; }
+      .name-accent { font-size: 32px; font-weight: 600; fill: #1D9E75; letter-spacing: -1px; }
+      .sub { font-size: 13px; fill: #7d8590; }
+      .link { font-size: 12px; fill: #58a6ff; }
+      .section-label { font-size: 10px; fill: #7d8590; letter-spacing: 0.12em; text-transform: uppercase; }
+      .stat-num { font-size: 26px; font-weight: 600; fill: #1D9E75; font-family: 'SF Mono', monospace; }
+      .stat-lbl { font-size: 11px; fill: #7d8590; }
+      .side-label { font-size: 10px; fill: #7d8590; letter-spacing: 0.1em; }
+      .side-title { font-size: 13px; font-weight: 600; fill: #e6edf3; }
+      .chip-hw { fill: #0d2b22; stroke: #1D9E75; stroke-width: 0.5; }
+      .chip-sw { fill: #0c1e3d; stroke: #378ADD; stroke-width: 0.5; }
+      .chip-ai { fill: #1a1535; stroke: #7F77DD; stroke-width: 0.5; }
+      .chip-text-hw { font-size: 10px; fill: #1D9E75; font-family: 'SF Mono', monospace; }
+      .chip-text-sw { font-size: 10px; fill: #378ADD; font-family: 'SF Mono', monospace; }
+      .chip-text-ai { font-size: 10px; fill: #7F77DD; font-family: 'SF Mono', monospace; }
+      .proj-name { font-size: 13px; font-weight: 600; fill: #e6edf3; }
+      .proj-date { font-size: 11px; fill: #7d8590; font-family: 'SF Mono', monospace; }
+      .proj-desc { font-size: 12px; fill: #8b949e; }
+      .proj-stat { font-size: 11px; fill: #7d8590; font-family: 'SF Mono', monospace; }
+      .proj-stat-b { font-size: 11px; fill: #e6edf3; font-weight: 600; font-family: 'SF Mono', monospace; }
+      .div { stroke: #21262d; stroke-width: 0.5; }
+      .tl-yr { font-size: 10px; fill: #7d8590; font-family: 'SF Mono', monospace; }
+      .tl-ev { font-size: 12px; font-weight: 600; fill: #e6edf3; }
+      .tl-sub { font-size: 11px; fill: #7d8590; }
+      .cert { fill: #161b22; stroke: #30363d; stroke-width: 0.5; }
+      .cert-text { font-size: 11px; fill: #7d8590; font-family: 'SF Mono', monospace; }
+      .mi-text { font-size: 12px; fill: #8b949e; }
+      .open { fill: #0d2b22; stroke: #1D9E75; stroke-width: 0.5; }
+      .open-text { font-size: 11px; fill: #1D9E75; font-family: 'SF Mono', monospace; }
+      .footer { font-size: 11px; fill: #484f58; font-family: 'SF Mono', monospace; }
+      .now-text { font-size: 12px; fill: #8b949e; font-family: 'SF Mono', monospace; }
+      .now-b { font-size: 12px; fill: #e6edf3; font-weight: 600; font-family: 'SF Mono', monospace; }
+      .arrow-text { font-size: 11px; fill: #484f58; font-family: 'SF Mono', monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="1420" class="bg" rx="12"/>
+
+  <!-- Hero -->
+  <text x="400" y="68" text-anchor="middle" class="name">Prabuddha </text>
+  <text x="502" y="68" text-anchor="start" class="name-accent">Saxena</text>
+  <text x="400" y="92" text-anchor="middle" class="sub">Full Stack Developer · ECE @ JIIT Noida '28 · Noida, India</text>
+
+  <!-- Links -->
+  <text x="320" y="114" text-anchor="middle" class="link">GitHub</text>
+  <text x="350" y="114" text-anchor="middle" class="sub">·</text>
+  <text x="400" y="114" text-anchor="middle" class="link">LinkedIn</text>
+  <text x="436" y="114" text-anchor="middle" class="sub">·</text>
+  <text x="476" y="114" text-anchor="middle" class="link">Email</text>
+
+  <!-- Status -->
+  <circle cx="40" cy="141" r="4" fill="#1D9E75"/>
+  <text x="52" y="145" class="now-b">Currently</text>
+  <text x="120" y="145" class="now-text">— SSPL · DRDO · Ministry of Defence, India</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="162" x2="760" y2="162" class="div"/>
+
+  <!-- Stat cards -->
+  <rect x="40" y="176" width="228" height="72" rx="6" class="card"/>
+  <text x="156" y="208" text-anchor="middle" class="stat-num">0.965</text>
+  <text x="156" y="228" text-anchor="middle" class="stat-lbl">mAP@50 — YOLOv8 Model</text>
+
+  <rect x="286" y="176" width="228" height="72" rx="6" class="card"/>
+  <text x="400" y="208" text-anchor="middle" class="stat-num">80%</text>
+  <text x="400" y="228" text-anchor="middle" class="stat-lbl">API Calls Reduced</text>
+
+  <rect x="532" y="176" width="228" height="72" rx="6" class="card"/>
+  <text x="646" y="208" text-anchor="middle" class="stat-num">4</text>
+  <text x="646" y="228" text-anchor="middle" class="stat-lbl">Products Shipped in 24h</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="266" x2="760" y2="266" class="div"/>
+
+  <!-- What I Build -->
+  <text x="40" y="286" class="section-label">WHAT I BUILD</text>
+
+  <!-- HW card -->
+  <rect x="40" y="298" width="350" height="108" rx="6" class="card"/>
+  <text x="56" y="320" class="side-label">HARDWARE SIDE</text>
+  <text x="56" y="338" class="side-title">Embedded &amp; Real-Time</text>
+  <!-- hw chips row 1 -->
+  <rect x="56" y="348" width="62" height="18" rx="3" class="chip-hw"/>
+  <text x="87" y="361" text-anchor="middle" class="chip-text-hw">Arduino</text>
+  <rect x="124" y="348" width="105" height="18" rx="3" class="chip-hw"/>
+  <text x="176" y="361" text-anchor="middle" class="chip-text-hw">Embedded C/C++</text>
+  <rect x="235" y="348" width="58" height="18" rx="3" class="chip-hw"/>
+  <text x="264" y="361" text-anchor="middle" class="chip-text-hw">YOLOv8</text>
+  <!-- hw chips row 2 -->
+  <rect x="56" y="372" width="60" height="18" rx="3" class="chip-hw"/>
+  <text x="86" y="385" text-anchor="middle" class="chip-text-hw">OpenCV</text>
+  <rect x="122" y="372" width="70" height="18" rx="3" class="chip-hw"/>
+  <text x="157" y="385" text-anchor="middle" class="chip-text-hw">MediaPipe</text>
+  <rect x="198" y="372" width="60" height="18" rx="3" class="chip-hw"/>
+  <text x="228" y="385" text-anchor="middle" class="chip-text-hw">HC-SR04</text>
+
+  <!-- SW card -->
+  <rect x="410" y="298" width="350" height="108" rx="6" class="card"/>
+  <text x="426" y="320" class="side-label">SOFTWARE SIDE</text>
+  <text x="426" y="338" class="side-title">Full-Stack &amp; AI</text>
+  <!-- sw chips row 1 -->
+  <rect x="426" y="348" width="58" height="18" rx="3" class="chip-sw"/>
+  <text x="455" y="361" text-anchor="middle" class="chip-text-sw">Node.js</text>
+  <rect x="490" y="348" width="46" height="18" rx="3" class="chip-sw"/>
+  <text x="513" y="361" text-anchor="middle" class="chip-text-sw">React</text>
+  <rect x="542" y="348" width="66" height="18" rx="3" class="chip-sw"/>
+  <text x="575" y="361" text-anchor="middle" class="chip-text-sw">MongoDB</text>
+  <rect x="614" y="348" width="50" height="18" rx="3" class="chip-sw"/>
+  <text x="639" y="361" text-anchor="middle" class="chip-text-sw">Python</text>
+  <!-- sw/ai chips row 2 -->
+  <rect x="426" y="372" width="72" height="18" rx="3" class="chip-ai"/>
+  <text x="462" y="385" text-anchor="middle" class="chip-text-ai">LLMs / RAG</text>
+  <rect x="504" y="372" width="76" height="18" rx="3" class="chip-sw"/>
+  <text x="542" y="385" text-anchor="middle" class="chip-text-sw">Express.js</text>
+  <rect x="586" y="372" width="36" height="18" rx="3" class="chip-sw"/>
+  <text x="604" y="385" text-anchor="middle" class="chip-text-sw">SQL</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="424" x2="760" y2="424" class="div"/>
+
+  <!-- Projects -->
+  <text x="40" y="444" class="section-label">PROJECTS</text>
+
+  <!-- FactGuard -->
+  <text x="40" y="466" class="proj-name">FactGuard — AI Scam Detection Platform</text>
+  <text x="720" y="466" text-anchor="end" class="proj-date">Mar 2026</text>
+  <rect x="40" y="472" width="28" height="16" rx="2" class="chip-ai"/>
+  <text x="54" y="484" text-anchor="middle" class="chip-text-ai">AI</text>
+  <rect x="74" y="472" width="64" height="16" rx="2" class="chip-sw"/>
+  <text x="106" y="484" text-anchor="middle" class="chip-text-sw">Full-Stack</text>
+  <rect x="144" y="472" width="90" height="16" rx="2" class="chip-ai"/>
+  <text x="189" y="484" text-anchor="middle" class="chip-text-ai">LLaMA 3.3 70B</text>
+  <rect x="240" y="472" width="32" height="16" rx="2" class="chip-ai"/>
+  <text x="256" y="484" text-anchor="middle" class="chip-text-ai">RAG</text>
+  <text x="40" y="504" class="proj-desc">RAG pipeline for real-time fact-checking across fake news, KYC fraud and phishing.</text>
+  <text x="40" y="520" class="proj-desc">Shipped 4 products in 24h — web app, WhatsApp bot, Chrome extension, PWA — from one backend.</text>
+  <text x="40" y="538" class="arrow-text">↳ Fixed live token exhaustion bug · URL caching cut API calls by </text>
+  <text x="451" y="538" class="proj-stat-b">80%</text>
+  <line x1="40" y1="552" x2="760" y2="552" class="div"/>
+
+  <!-- Hardware detector -->
+  <text x="40" y="572" class="proj-name">Hardware Component Detector</text>
+  <text x="720" y="572" text-anchor="end" class="proj-date">Feb 2026</text>
+  <rect x="40" y="578" width="58" height="16" rx="2" class="chip-hw"/>
+  <text x="69" y="590" text-anchor="middle" class="chip-text-hw">Embedded</text>
+  <rect x="104" y="578" width="28" height="16" rx="2" class="chip-hw"/>
+  <text x="118" y="590" text-anchor="middle" class="chip-text-hw">CV</text>
+  <rect x="138" y="578" width="54" height="16" rx="2" class="chip-hw"/>
+  <text x="165" y="590" text-anchor="middle" class="chip-text-hw">YOLOv8</text>
+  <rect x="198" y="578" width="54" height="16" rx="2" class="chip-hw"/>
+  <text x="225" y="590" text-anchor="middle" class="chip-text-hw">OpenCV</text>
+  <text x="40" y="610" class="proj-desc">End-to-end CV pipeline with 171-image hand-annotated dataset.</text>
+  <text x="40" y="626" class="proj-desc">Real-time webcam inference fine-tuned for electronics components.</text>
+  <text x="40" y="644" class="arrow-text">↳ </text>
+  <text x="54" y="644" class="proj-stat-b">0.965</text>
+  <text x="93" y="644" class="arrow-text"> mAP@50 · ~</text>
+  <text x="162" y="644" class="proj-stat-b">15%</text>
+  <text x="186" y="644" class="arrow-text"> fewer false positives</text>
+  <line x1="40" y1="658" x2="760" y2="658" class="div"/>
+
+  <!-- Gesture -->
+  <text x="40" y="678" class="proj-name">Gesture-Controlled Embedded System</text>
+  <text x="720" y="678" text-anchor="end" class="proj-date">Apr 2026 · in progress</text>
+  <rect x="40" y="684" width="58" height="16" rx="2" class="chip-hw"/>
+  <text x="69" y="696" text-anchor="middle" class="chip-text-hw">Embedded</text>
+  <rect x="104" y="684" width="28" height="16" rx="2" class="chip-hw"/>
+  <text x="118" y="696" text-anchor="middle" class="chip-text-hw">CV</text>
+  <rect x="138" y="684" width="52" height="16" rx="2" class="chip-hw"/>
+  <text x="164" y="696" text-anchor="middle" class="chip-text-hw">Arduino</text>
+  <rect x="196" y="684" width="68" height="16" rx="2" class="chip-hw"/>
+  <text x="230" y="696" text-anchor="middle" class="chip-text-hw">MediaPipe</text>
+  <text x="40" y="716" class="proj-desc">MediaPipe hand landmarks → serial commands → Arduino.</text>
+  <text x="40" y="732" class="proj-desc">Gestures controlling LEDs and motors in real time.</text>
+  <line x1="40" y1="748" x2="760" y2="748" class="div"/>
+
+  <!-- Robot -->
+  <text x="40" y="768" class="proj-name">Obstacle Detection Robot</text>
+  <text x="720" y="768" text-anchor="end" class="proj-date">Jan 2026</text>
+  <rect x="40" y="774" width="58" height="16" rx="2" class="chip-hw"/>
+  <text x="69" y="786" text-anchor="middle" class="chip-text-hw">Embedded</text>
+  <rect x="104" y="774" width="52" height="16" rx="2" class="chip-hw"/>
+  <text x="130" y="786" text-anchor="middle" class="chip-text-hw">Arduino</text>
+  <rect x="162" y="774" width="54" height="16" rx="2" class="chip-hw"/>
+  <text x="189" y="786" text-anchor="middle" class="chip-text-hw">HC-SR04</text>
+  <rect x="222" y="774" width="30" height="16" rx="2" class="chip-hw"/>
+  <text x="237" y="786" text-anchor="middle" class="chip-text-hw">C++</text>
+  <text x="40" y="806" class="proj-desc">HC-SR04 ultrasonic sensing, echo-to-distance conversion, threshold-based motor control.</text>
+  <text x="40" y="822" class="proj-desc">Debugged signal noise, wiring faults, unstable readings.</text>
+  <line x1="40" y1="836" x2="760" y2="836" class="div"/>
+
+  <!-- Bitbox -->
+  <text x="40" y="856" class="proj-name">Bitbox 5.0 — Freelance Platform</text>
+  <text x="720" y="856" text-anchor="end" class="proj-date">May 2025</text>
+  <rect x="40" y="862" width="64" height="16" rx="2" class="chip-sw"/>
+  <text x="72" y="874" text-anchor="middle" class="chip-text-sw">Full-Stack</text>
+  <rect x="110" y="862" width="76" height="16" rx="2" class="chip-sw"/>
+  <text x="148" y="874" text-anchor="middle" class="chip-text-sw">JavaScript</text>
+  <text x="40" y="894" class="proj-desc">Led 4-member team to ship freelance marketplace in 4 weeks.</text>
+  <text x="40" y="910" class="proj-desc">Modular JS architecture reduced redundant code by 25%.</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="928" x2="760" y2="928" class="div"/>
+
+  <!-- Milestones -->
+  <text x="40" y="948" class="section-label">MILESTONES</text>
+  <circle cx="48" cy="965" r="3" fill="#1D9E75"/>
+  <text x="60" y="969" class="mi-text">Shipped AI scam detection platform with RAG</text>
+  <circle cx="408" cy="965" r="3" fill="#1D9E75"/>
+  <text x="420" y="969" class="mi-text">Trained custom YOLOv8 — 0.965 mAP@50</text>
+  <circle cx="48" cy="985" r="3" fill="#1D9E75"/>
+  <text x="60" y="989" class="mi-text">4 products to production in 24h</text>
+  <circle cx="408" cy="985" r="3" fill="#1D9E75"/>
+  <text x="420" y="989" class="mi-text">Full MERN stack applications live</text>
+  <circle cx="48" cy="1005" r="3" fill="#1D9E75"/>
+  <text x="60" y="1009" class="mi-text">DRDO SSPL internship secured</text>
+  <circle cx="408" cy="1005" r="3" fill="#1D9E75"/>
+  <text x="420" y="1009" class="mi-text">McKinsey, Qualcomm &amp; Adobe certified</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="1026" x2="760" y2="1026" class="div"/>
+
+  <!-- Journey -->
+  <text x="40" y="1046" class="section-label">JOURNEY</text>
+
+  <rect x="40" y="1058" width="170" height="80" rx="6" class="card"/>
+  <text x="56" y="1078" class="tl-yr">2021</text>
+  <text x="56" y="1096" class="tl-ev">Class X</text>
+  <text x="56" y="1114" class="tl-sub">92.4% · Kanpur</text>
+
+  <rect x="224" y="1058" width="170" height="80" rx="6" class="card"/>
+  <text x="240" y="1078" class="tl-yr">2023</text>
+  <text x="240" y="1096" class="tl-ev">Class XII</text>
+  <text x="240" y="1114" class="tl-sub">85% · Head Boy · Cricket Captain</text>
+
+  <rect x="408" y="1058" width="170" height="80" rx="6" class="card"/>
+  <text x="424" y="1078" class="tl-yr">2024</text>
+  <text x="424" y="1096" class="tl-ev">ECE @ JIIT Noida</text>
+  <text x="424" y="1114" class="tl-sub">GPA 8.12 · Batch of '28</text>
+
+  <rect x="592" y="1058" width="168" height="80" rx="6" class="card-teal"/>
+  <text x="608" y="1078" class="tl-yr">2026 · Now</text>
+  <text x="608" y="1096" class="tl-ev">SSPL · DRDO</text>
+  <text x="608" y="1114" class="tl-sub">Ministry of Defence</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="1158" x2="760" y2="1158" class="div"/>
+
+  <!-- Certifications -->
+  <text x="40" y="1178" class="section-label">CERTIFICATIONS</text>
+  <rect x="40" y="1190" width="168" height="26" rx="13" class="cert"/>
+  <text x="124" y="1208" text-anchor="middle" class="cert-text">McKinsey Forward · 2025</text>
+  <rect x="218" y="1190" width="162" height="26" rx="13" class="cert"/>
+  <text x="299" y="1208" text-anchor="middle" class="cert-text">Qualcomm 5G Intro · 2025</text>
+  <rect x="390" y="1190" width="178" height="26" rx="13" class="cert"/>
+  <text x="479" y="1208" text-anchor="middle" class="cert-text">Adobe Graphic Design · 2025</text>
+
+  <!-- Footer -->
+  <line x1="40" y1="1236" x2="760" y2="1236" class="div"/>
+  <text x="40" y="1258" class="footer">Updated June 2026</text>
+  <rect x="630" y="1242" width="130" height="26" rx="13" class="open"/>
+  <text x="695" y="1260" text-anchor="middle" class="open-text">Open to Opportunities</text>
+
+</svg>
