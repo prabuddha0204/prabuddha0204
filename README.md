@@ -1,71 +1,82 @@
 <div align="center">
-  <h1>Prabuddha Saxena</h1>
-  <p>Full Stack Dev · ECE @ JIIT '28 · Noida, India</p>
-  <p>
-    <a href="https://github.com/prabuddha0204">github</a> &nbsp;·&nbsp;
-    <a href="https://linkedin.com/in/prabuddha-saxena">linkedin</a> &nbsp;·&nbsp;
-    <a href="mailto:prabuddha02.04@gmail.com">email</a>
-  </p>
+
+<h1>Prabuddha <span style="color:#1D9E75">Saxena</span></h1>
+
+<p>Full Stack Developer · ECE @ JIIT Noida '28 · Noida, India</p>
+
+<p>
+  <a href="https://github.com/prabuddha0204">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/prabuddha-saxena">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:prabuddha02.04@gmail.com">Email</a>
+</p>
+
 </div>
 
 <br/>
 
-🟢 &nbsp;**now** — SSPL · DRDO, Ministry of Defence &nbsp;·&nbsp; compound semiconductors (GaN / GaAs) · Delhi
+🟢 &nbsp;**Currently** — SSPL · DRDO &nbsp;·&nbsp; Ministry of Defence, India
 
-I build things at the intersection of embedded systems and applied ML — from real-time hardware vision pipelines to full-stack AI platforms. Currently exploring compound semiconductor devices at DRDO.
+---
+
+<br/>
+
+**0.965** mAP@50 &nbsp;&nbsp;|&nbsp;&nbsp; **80%** API Calls Reduced &nbsp;&nbsp;|&nbsp;&nbsp; **4** Products in 24h
+:---: | :---: | :---:
+YOLOv8 Model | Token Bug Fix | FactGuard Launch
 
 <br/>
 
 ---
 
-### numbers
+### What I Build
 
-| `0.965` mAP@50 | `80%` API calls reduced | `4` products in 24h |
-|:---:|:---:|:---:|
-| YOLOv8 model | token bug fix | FactGuard launch |
+**Hardware Side** — Embedded & Real-Time
 
----
-
-### what I work on
-
-**hardware side** — embedded & real-time  
 `Arduino` `Embedded C/C++` `YOLOv8` `OpenCV` `MediaPipe` `HC-SR04`
 
-**software side** — full-stack & AI  
+**Software Side** — Full-Stack & AI
+
 `Node.js` `React` `MongoDB` `LLMs / RAG` `Python` `Express.js`
 
 ---
 
-### projects
+### Projects
 
-**FactGuard — AI Scam Detection Platform** &nbsp; `AI` `full-stack` &nbsp; *Mar 2026*  
-RAG pipeline using Tavily + LLaMA 3.3 70B for real-time fact-checking across fake news, KYC fraud and phishing. Shipped 4 products in 24h — web app, WhatsApp bot, Chrome extension, PWA — from one Node.js backend.  
-↳ fixed live token exhaustion bug · URL caching cut API calls by **80%**
+**FactGuard — AI Scam Detection Platform** &nbsp; `AI` `Full-Stack` `LLaMA 3.3 70B` `RAG` &nbsp; · &nbsp; *Mar 2026*
 
----
+RAG pipeline for real-time fact-checking across fake news, KYC fraud and phishing. Shipped 4 products in 24h — web app, WhatsApp bot, Chrome extension, PWA — from one backend.
 
-**Hardware Component Detector** &nbsp; `embedded` `CV` &nbsp; *Feb 2026*  
-End-to-end CV pipeline with 171-image hand-annotated dataset. Real-time webcam inference fine-tuned for electronics components.  
-↳ **0.965** mAP@50 · ~**15%** fewer false positives
+↳ Fixed live token exhaustion bug &nbsp;·&nbsp; URL caching cut API calls by **80%**
 
 ---
 
-**Gesture-Controlled Embedded System** &nbsp; `embedded` `CV` &nbsp; *Apr 2026 · in progress*  
+**Hardware Component Detector** &nbsp; `Embedded` `CV` `YOLOv8` `OpenCV` &nbsp; · &nbsp; *Feb 2026*
+
+End-to-end CV pipeline with 171-image hand-annotated dataset. Real-time webcam inference fine-tuned for electronics components.
+
+↳ **0.965** mAP@50 &nbsp;·&nbsp; ~**15%** fewer false positives
+
+---
+
+**Gesture-Controlled Embedded System** &nbsp; `Embedded` `CV` `Arduino` `MediaPipe` &nbsp; · &nbsp; *Apr 2026 · in progress*
+
 MediaPipe hand landmarks → serial commands → Arduino. Gestures controlling LEDs and motors in real time.
 
 ---
 
-**Obstacle Detection Robot** &nbsp; `embedded` &nbsp; *Jan 2026*  
-HC-SR04 ultrasonic sensor + embedded C for real-time distance measurement and threshold-based motor control. Debugged signal noise, wiring faults, unstable readings.
+**Obstacle Detection Robot** &nbsp; `Embedded` `Arduino` `C++` &nbsp; · &nbsp; *Jan 2026*
+
+HC-SR04 ultrasonic sensing, echo-to-distance conversion, threshold-based motor control. Debugged signal noise and wiring faults.
 
 ---
 
-**Bitbox 5.0 — Freelance Platform** &nbsp; `full-stack` &nbsp; *May 2025*  
-Led 4-member team to ship freelance marketplace in 4 weeks. Modular JS architecture reduced redundant code by **25%**.
+**Bitbox 5.0 — Freelance Platform** &nbsp; `Full-Stack` `JavaScript` &nbsp; · &nbsp; *May 2025*
+
+Led 4-member team to ship a freelance marketplace in 4 weeks. Modular JS architecture reduced redundant code by **25%**.
 
 ---
 
-### milestones
+### Milestones
 
 - Shipped AI scam detection platform with RAG
 - Trained custom YOLOv8 model — 0.965 mAP@50
@@ -76,24 +87,23 @@ Led 4-member team to ship freelance marketplace in 4 weeks. Modular JS architect
 
 ---
 
-### journey
+### Journey
 
 ```
-2021 ──────── 2023 ──────────────── 2024 ──────────────── 2026 → now
-Class X       Class XII             ECE @ JIIT Noida      SSPL · DRDO
-92.4%         85%                   GPA 8.12              GaN / GaAs
-Kanpur        Head Boy              batch of '28          Ministry of Defence
-              Cricket Captain
+2021 ─────────── 2023 ─────────────────── 2024 ──────────────── 2026 · Now
+Class X           Class XII               ECE @ JIIT Noida      SSPL · DRDO
+92.4% · Kanpur    85% · Head Boy          GPA 8.12              Ministry of Defence
+                  Cricket Captain         Batch of '28
 ```
 
 ---
 
-### certifications
+### Certifications
 
-`McKinsey Forward Program · 2025` &nbsp; `Qualcomm 5G Intro · 2025` &nbsp; `Adobe Graphic Design · 2025`
+`McKinsey Forward · 2025` &nbsp; `Qualcomm 5G Intro · 2025` &nbsp; `Adobe Graphic Design · 2025`
 
 ---
 
 <div align="center">
-  <sub>open to opportunities · updated june 2026</sub>
+  <sub>Open to Opportunities &nbsp;·&nbsp; Updated June 2026</sub>
 </div>
