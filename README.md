@@ -1,6 +1,6 @@
 # PRABUDDHA SAXENA
 
-Building at the intersection of electronics and software.
+BUILDING AT THE INTERSECTION OF ELECTRONICS AND SOFTWARE.
 
 
 ECE @ JIIT '28
@@ -19,7 +19,7 @@ ECE @ JIIT '28
 
 ### EXPERIENCE
 
-2026 — Present  
+June 2026 — Present  
 **Research Intern, DRDO**
 
 
@@ -27,9 +27,9 @@ ECE @ JIIT '28
 
 ---
 
-Interested in AI, computer vision, embedded systems, and modern software development.
+INTERESTED IN AI, COMPUTER VISION, EMBEDDED SYSTEMS, AND MODERN SOFTWARE DEVELOPMENT.
 
-Currently exploring how intelligent software and electronics can work together to solve real-world problems.
+CURRENTLY EXPLORING HOW INTELLIGENT SOFTWARE AND ELECTRONICS CAN WORK TOGETHER TO SOLVE REAL-WORLD PROBLEMS.
 
 ---
 
@@ -142,6 +142,6 @@ Currently exploring how intelligent software and electronics can work together t
 
 <div align="center">
 
-*Exploring the intersection of electronics, AI, and software.*
+*Exploring the intersection of Electronics, AI, and Software.*
 
 </div>
