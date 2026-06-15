@@ -1,12 +1,12 @@
-<div align="center">
-
 # PRABUDDHA SAXENA
 
-**Electronics Engineer · AI & Computer Vision · ECE @ JIIT '28**
+Building at the intersection of electronics and software.
 
-Building products across software, AI, computer vision, and embedded systems.
+AI · Computer Vision · Embedded Systems · Full Stack
 
-`Full Stack` &nbsp; `Computer Vision` &nbsp; `AI Systems` &nbsp; `Embedded Tech` &nbsp; `Open Source`
+ECE @ JIIT '28
+
+`Embedded Systems` &nbsp; `AI Systems` &nbsp; `Full Stack` &nbsp; `Computer Vision` &nbsp;  `Open Source`
 
 <br>
 
@@ -18,12 +18,17 @@ Building products across software, AI, computer vision, and embedded systems.
 
 ---
 
-## About
+### Experience
 
-I'm an Electronics & Communication Engineering student at JIIT with interests spanning software engineering, artificial intelligence, computer vision, and embedded systems.
+2026 — Present  
+**Research Intern, DRDO**
 
-I enjoy building products from idea to deployment, whether that's a full-stack application, an AI-powered platform, a computer vision system, or an embedded hardware project.
 
+## ABOUT
+
+Interested in AI, computer vision, embedded systems, and modern software development.
+
+Currently exploring how intelligent software and electronics can work together to solve real-world problems.
 ---
 
 ## Technologies
@@ -136,6 +141,6 @@ I enjoy building products from idea to deployment, whether that's a full-stack a
 
 <div align="center">
 
-Building software and hardware that solve real-world problems.
+*open to opportunities · last updated June 2026*
 
 </div>
