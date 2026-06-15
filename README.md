@@ -1,162 +1,107 @@
-Write the complete README.md
-bash
-
-cat > /mnt/user-data/outputs/README.md << 'EOF'
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/prabuddha0204/prabuddha0204/main/prabuddha_saxena_banner.svg)
+# PRABUDDHA SAXENA
+**Full Stack Developer · ECE @ JIIT '28 · Noida, India**
+
+I build things for the web — from AI-powered platforms to computer vision systems.
+Currently exploring the intersection of full-stack development and applied ML.
+
+`MERN Stack` &nbsp; `Computer Vision` &nbsp; `RAG / LLMs` &nbsp; `Open Source` &nbsp; `DSA`
 
 </div>
 
 ---
 
-<div align="center">
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-```
-Electronics & Communication Engineering · JIIT Noida · 2024–2028
-Research Intern — DRDO
-```
+### Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-</div>
+### AI & Computer Vision
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LLaMA 3.3](https://img.shields.io/badge/LLaMA_3.3_70B-7C3AED?style=flat)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-1D9E75?style=flat)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat)
 
----
-
-## whoami
-
-```python
-prabuddha = {
-    "name"      : "Prabuddha Saxena",
-    "role"      : ["ECE Student", "Research Intern @ DRDO", "Builder"],
-    "location"  : "Noida, India",
-    "gpa"       : 8.12,
-    "building"  : "Systems that live at the edge of software and hardware",
-    "domains"   : ["Embedded Systems", "Computer Vision", "Full Stack", "AI/ML"],
-    "contact"   : "prabuddha02.04@gmail.com"
-}
-```
-
----
-
-## stack
-
-| Layer | Technologies |
-|---|---|
-| **Embedded & Hardware** | Arduino · Embedded C/C++ · HC-SR04 · Digital Circuits · AutoCAD |
-| **AI & Computer Vision** | YOLOv8 · OpenCV · MediaPipe · RAG Pipelines · LLaMA 3.3 70B · Groq |
-| **Full Stack** | React · Node.js · Express · MongoDB · REST APIs · PWA |
-| **Languages** | C++ · Python · JavaScript ES6+ · HTML5 · CSS3 · SQL |
-| **Design & Tools** | Figma · Adobe Photoshop · Illustrator · Git · Postman · Vercel |
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat&logo=autodesk&logoColor=white)
 
 ---
 
-## projects
+## Projects
 
-**FactGuard — AI Scam Detection Platform** &nbsp; `March 2026`
+**`01` · AI Platform — FactGuard: Scam Detection** &nbsp; *March 2026*
+> `React` `Node.js` `LLaMA 3.3 70B` `Groq` `Tavily` `RAG` `PWA`
+- RAG pipeline for real-time fact-checking across fake news, KYC fraud & phishing
+- 4 products shipped in 24h — web app, WhatsApp bot, Chrome extension & PWA, all from one backend
+- Fixed live token exhaustion bug; URL caching reduced API calls by 80%
 
-> React · Node.js · LLaMA 3.3 70B · Groq · Tavily · RAG · PWA
+**`02` · Computer Vision — Hardware Component Detector** &nbsp; *February 2026*
+> `YOLOv8` `OpenCV` `Python`
+- End-to-end CV pipeline with 171-image manually annotated dataset
+- Achieved **0.965 mAP@50** over 50 training epochs
+- Real-time webcam inference with ~15% fewer false positives
 
-4 production products shipped in 24 hours from a single Node.js backend — web platform, WhatsApp bot (Twilio), passive Chrome extension, and installable PWA. Built a RAG pipeline over Tavily web search to fact-check claims across fake news, KYC fraud, phishing, and deepfake categories. Diagnosed and fixed a live token exhaustion bug; URL caching cut API calls by **80%**.
+**`03` · Frontend — Mac OS Style Portfolio** &nbsp; *June 2025*
+> `JavaScript` `HTML5` `CSS3`
+- Mac OS-inspired desktop with draggable windows & starfield canvas background
+- Vanilla JS DOM manipulation simulating realistic OS behaviour
 
-&nbsp;
-
-**Real-Time Hardware Component Detector** &nbsp; `February 2026`
-
-> YOLOv8 · OpenCV · Python
-
-End-to-end CV pipeline — manually annotated a 171-image dataset, trained 50 epochs, achieved **0.965 mAP@50**. Deployed live webcam inference with confidence threshold tuning, reducing false positives by ~15%.
-
-&nbsp;
-
-**Gesture-Controlled Embedded System** &nbsp; `April 2026 · In Progress`
-
-> Arduino · MediaPipe · OpenCV · Serial Communication
-
-Bridging CV and hardware in real time — MediaPipe hand landmark detection maps specific gestures to control signals for LEDs and motors over serial. A system that understands you without a single button press.
-
-&nbsp;
-
-**Obstacle Detection Robot** &nbsp; `January 2026`
-
-> Arduino · HC-SR04 · Embedded C/C++
-
-Ultrasonic distance measurement with threshold-based motor control for autonomous collision avoidance. Debugged signal noise, wiring faults, and unstable readings to ship a reliable real-time system.
-
-&nbsp;
-
-**Mac OS Style Interactive Portfolio** &nbsp; `June 2025`
-
-> Vanilla JavaScript · HTML5 · CSS3
-
-A draggable multi-window desktop environment in the browser — starfield canvas background, OS-level animations, fully responsive. Zero frameworks.
-
-&nbsp;
-
-**Bitbox 5.0 — Freelance Connector Platform** &nbsp; `May 2025`
-
-> HTML · CSS · JavaScript
-
-Led a 4-member cross-functional team to ship a freelance marketplace in 4 weeks. Modular JS architecture reduced redundant code by **25%**.
+**`04` · Full Stack — Bitbox 5.0 Freelance Platform** &nbsp; *May 2025*
+> `HTML` `CSS` `JavaScript`
+- Led 4-member team to ship a freelance marketplace within a 4-week deadline
+- Modular JS architecture reduced redundant code by 25%
 
 ---
 
-## currently
+## GitHub Stats
 
-```
-→  Gesture-controlled embedded system    [ CV + hardware, serial comms ]
-→  Edge inference exploration            [ on-device AI, embedded ML ]
-→  DSP & Signals coursework             [ JIIT, deepening ECE fundamentals ]
-→  Open to research collaborations and internship opportunities
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha0204&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha0204&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
----
-
-## credentials
-
-```
-McKinsey Forward Program          2025
-Qualcomm 5G Fundamentals          2025
-Adobe Graphic Design              2025
-School Head Boy                   —
-Cricket Captain                   —
-Adobe Photoshop Winner            Among 100+ schools
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabuddha0204&theme=tokyonight" />
+</p>
 
 ---
 
-## stats
+## Certifications
+`McKinsey Forward Program · 2025` &nbsp; `Qualcomm 5G Intro · 2025` &nbsp; `Adobe Graphic Design · 2025`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prabuddha0204&show_icons=true&theme=transparent&hide_border=true&title_color=F5F5F7&text_color=A1A1A6&icon_color=3E8EDB&cache_seconds=1800" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha0204&layout=compact&theme=transparent&hide_border=true&title_color=F5F5F7&text_color=A1A1A6&cache_seconds=1800" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prabuddha0204&theme=transparent&hide_border=true&stroke=2A2A2E&ring=3E8EDB&fire=3E8EDB&currStreakLabel=A1A1A6&sideLabels=A1A1A6&dates=6E6E73&currStreakNum=F5F5F7&sideNums=F5F5F7" />
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prabuddha0204/prabuddha0204/output/github-snake-dark.svg" />
-
-</div>
+## Milestones
+- ✅ Shipped AI scam detection platform with RAG
+- ✅ Trained custom YOLOv8 model — 0.965 mAP@50
+- ✅ Built & led cross-functional product to production
+- ✅ Full MERN stack applications live
+- ✅ McKinsey, Qualcomm & Adobe certified
+- ✅ Practised DSA & contributed to open source
 
 ---
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabuddha-saxena/)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prabuddha0204)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prabuddha02.04@gmail.com)
 
-<br/>
-
-`ECE @ JIIT '28` &nbsp;·&nbsp; `Noida, India` &nbsp;·&nbsp; `open to opportunities`
+*open to opportunities · last updated april 2026*
 
 </div>
