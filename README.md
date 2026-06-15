@@ -2,7 +2,7 @@
 
 # PRABUDDHA SAXENA
 
-**Software Engineer · AI & Computer Vision · ECE @ JIIT '28**
+**Electronics Engineer · AI & Computer Vision · ECE @ JIIT '28**
 
 Building products across software, AI, computer vision, and embedded systems.
 
