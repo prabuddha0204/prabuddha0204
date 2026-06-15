@@ -2,11 +2,10 @@
 
 Building at the intersection of electronics and software.
 
-AI · Computer Vision · Embedded Systems · Full Stack
 
 ECE @ JIIT '28
 
-`Embedded Systems` &nbsp; `AI Systems` &nbsp; `Computer Vision` &nbsp; `Full Stack` &nbsp; `Open Source`
+`Embedded Systems` &nbsp; `AI ` &nbsp; `Computer Vision` &nbsp; `Full Stack` &nbsp; 
 
 <br>
 
