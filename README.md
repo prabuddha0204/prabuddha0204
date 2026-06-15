@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./prabuddha_saxena_banner.svg" width="100%" />
+  <img src="banner.svg" width="100%" alt="Prabuddha Saxena Banner">
 </p>
