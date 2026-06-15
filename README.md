@@ -6,7 +6,7 @@ AI · Computer Vision · Embedded Systems · Full Stack
 
 ECE @ JIIT '28
 
-`Embedded Systems` &nbsp; `AI Systems` &nbsp; `Full Stack` &nbsp; `Computer Vision` &nbsp;  `Open Source`
+`Embedded Systems` &nbsp; `AI Systems` &nbsp; `Computer Vision` &nbsp; `Full Stack` &nbsp; `Open Source`
 
 <br>
 
@@ -18,7 +18,7 @@ ECE @ JIIT '28
 
 ---
 
-### Experience
+### EXPERIENCE
 
 2026 — Present  
 **Research Intern, DRDO**
@@ -26,14 +26,17 @@ ECE @ JIIT '28
 
 ## ABOUT
 
+---
+
 Interested in AI, computer vision, embedded systems, and modern software development.
 
 Currently exploring how intelligent software and electronics can work together to solve real-world problems.
+
 ---
 
-## Technologies
+## TECHNOLOGIES
 
-### Software
+### SOFTWARE
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -44,7 +47,7 @@ Currently exploring how intelligent software and electronics can work together t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### AI & Computer Vision
+### AI AND COMPUTER VISION
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -52,8 +55,7 @@ Currently exploring how intelligent software and electronics can work together t
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-1D9E75?style=flat)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=flat)
 
-### Embedded & Design
-
+### EMBEDDED SYSTEMS
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -63,7 +65,7 @@ Currently exploring how intelligent software and electronics can work together t
 
 ---
 
-## Projects
+## PROJECTS
 
 ### `01` · FactGuard — AI Scam Detection Platform
 > `React` `Node.js` `LLaMA` `Groq` `Tavily` `RAG`
@@ -115,7 +117,7 @@ Currently exploring how intelligent software and electronics can work together t
 
 ---
 
-## Current Focus
+## CURRENT FOCUS
 
 - Embedded Systems & STM32
 - Computer Vision Applications
@@ -126,7 +128,7 @@ Currently exploring how intelligent software and electronics can work together t
 
 ---
 
-## GitHub Statistics
+## STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabuddha0204&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -141,6 +143,6 @@ Currently exploring how intelligent software and electronics can work together t
 
 <div align="center">
 
-*open to opportunities · last updated June 2026*
+*Exploring the intersection of electronics, AI, and software.*
 
 </div>
